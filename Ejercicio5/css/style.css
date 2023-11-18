@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(228, 194, 44);
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:dimgrey;
+}
+h2{
+    color:rgb(85, 167, 189);
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+.subtitle{
+    color: rgb(95, 146, 160);
+    font-style: italic;
+}
+.subtitle2{
+    font-weight: bold;
+    color: rgb(95, 146, 160);
+}
